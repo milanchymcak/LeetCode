@@ -1,6 +1,6 @@
 # LeetCode Problems - PHP Edition
 **Will try to add a few LeetCode solutions every week.**   
-Also follow me on [chymcakmilan.com](https://chymcakmilan.com)
+Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/) or [chymcakmilan.com](https://chymcakmilan.com)
 
 ## 📝 LeetCode Problems & Solutions
 
