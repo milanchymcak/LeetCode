@@ -14,6 +14,7 @@ Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/
 | 13. | Roman to Integer | [❐](https://leetcode.com/problems/roman-to-integer/) | [`#13`](../main/Solutions/13.md) |
 | 14. | Longest Common Prefix | [❐](https://leetcode.com/problems/longest-common-prefix/) | [`#14`](../main/Solutions/14.md) |
 | 16. | 3Sum Closest | [❐](https://leetcode.com/problems/3sum-closest/) | [`#16`](../main/Solutions/16.md) |
+| 20. | Valid Parentheses | [❐](https://leetcode.com/problems/valid-parentheses/) | [`#20`](../main/Solutions/20.md) |
 | 26. | Remove Duplicates from Sorted Array | [❐](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [`#26`](../main/Solutions/26.md) |
 | 29. | Divide Two Integers | [❐](https://leetcode.com/problems/divide-two-integers/) | [`#29`](../main/Solutions/29.md) |
 | 32. | Longest Valid Parentheses | [❐](https://leetcode.com/problems/longest-valid-parentheses/) | [`#32`](../main/Solutions/32.md) |
