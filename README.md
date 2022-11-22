@@ -6,6 +6,6 @@ Also follow me on [chymcakmilan.com](https://chymcakmilan.com)
 
 | Index | Name | LeetCode URL | Solution |
 | :---: |:----:|:------------:|:--------:|
-| 1. | Two Sum | [❐](https://leetcode.com/problems/two-sum/) | [`#1`](../blob/main/Solutions/1.md) |
+| 1. | Two Sum | [❐](https://leetcode.com/problems/two-sum/) | [`#1`](../main/Solutions/1.md) |
 | 2. | Add Two Nums | [❐](https://leetcode.com/problems/add-two-numbers/) | [`#2`](../blob/master/README.md) |
 | 7. | Reverse Integer | [❐](https://leetcode.com/problems/reverse-integer/) | [`#7`](../blob/master/README.md) |
