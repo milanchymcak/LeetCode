@@ -45,6 +45,7 @@ Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/
 | 709. | To Lower Case | [❐](https://leetcode.com/problems/to-lower-case/) | [`#709`](../main/Solutions/709.md) |
 | 724. | Find Pivot Index | [❐](https://leetcode.com/problems/find-pivot-index/) | [`#724`](../main/Solutions/724.md) |
 | 746. | Min Cost Climbing Stairs | [❐](https://leetcode.com/problems/min-cost-climbing-stairs/) | [`#746`](../main/Solutions/746.md) |
+| 876. | Middle of the Linked List | [❐](https://leetcode.com/problems/middle-of-the-linked-list/) | [`#876`](../main/Solutions/876.md) |
 | 899. | Orderly Queue | [❐](https://leetcode.com/problems/orderly-queue/) | [`#899`](../main/Solutions/899.md) |
 | 947. | Most Stones Removed with Same Row or Column | [❐](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [`#947`](../main/Solutions/947.md) |
 | 953. | Verifying an Alien Dictionary | [❐](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [`#953`](../main/Solutions/953.md) |
@@ -53,6 +54,7 @@ Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/
 | 1137. | N-th Tribonacci Number | [❐](https://leetcode.com/problems/n-th-tribonacci-number/) | [`#1137`](../main/Solutions/1137.md) |
 | 1232. | Check If It Is a Straight Line | [❐](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [`#1232`](../main/Solutions/1232.md) |
 | 1281. | Subtract the Product and Sum of Digits of an Integer | [❐](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [`#1281`](../main/Solutions/1281.md) |
+| 1290. | Convert Binary Number in a Linked List to Integer | [❐](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [`#1290`](../main/Solutions/1290.md) |
 | 1309. | Decrypt String from Alphabet to Integer Mapping | [❐](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [`#1309`](../main/Solutions/1309.md) |
 | 1470. | Shuffle the Array | [❐](https://leetcode.com/problems/shuffle-the-array/) | [`#1470`](../main/Solutions/1470.md) |
 | 1480. | Running Sum of 1d Array | [❐](https://leetcode.com/problems/running-sum-of-1d-array/) | [`#1480`](../main/Solutions/1480.md) |
