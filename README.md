@@ -59,6 +59,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 1281. | Subtract the Product and Sum of Digits of an Integer | [❐](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [`#1281`](../main/solutions/1281.md) |
 | 1290. | Convert Binary Number in a Linked List to Integer | [❐](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [`#1290`](../main/solutions/1290.md) |
 | 1309. | Decrypt String from Alphabet to Integer Mapping | [❐](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [`#1309`](../main/solutions/1309.md) |
+| 1356. | Sort Integers by The Number of 1 Bits | [❐](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [`#1356`](../main/solutions/1356.md) |
 | 1470. | Shuffle the Array | [❐](https://leetcode.com/problems/shuffle-the-array/) | [`#1470`](../main/solutions/1470.md) |
 | 1480. | Running Sum of 1d Array | [❐](https://leetcode.com/problems/running-sum-of-1d-array/) | [`#1480`](../main/solutions/1480.md) |
 | 1491. | Average Salary Excluding the Minimum and Maximum Salary | [❐](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [`#1491`](../main/solutions/1491.md) |
