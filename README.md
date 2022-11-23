@@ -33,6 +33,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 222. | Count Complete Tree Nodes | [❐](https://leetcode.com/problems/count-complete-tree-nodes/) | [`#222`](../main/solutions/222.md) |
 | 223. | Rectangle Area | [❐](https://leetcode.com/problems/rectangle-area/) | [`#223`](../main/solutions/223.md) |
 | 224. | Basic Calculator | [❐](https://leetcode.com/problems/basic-calculator/) | [`#224`](../main/solutions/224.md) |
+| 232. | Ugly Number | [❐](https://leetcode.com/problems/implement-queue-using-stacks/) | [`#232`](../main/solutions/232.md) |
 | 263. | Ugly Number | [❐](https://leetcode.com/problems/ugly-number/) | [`#263`](../main/solutions/263.md) |
 | 279. | Perfect Squares | [❐](https://leetcode.com/problems/perfect-squares/) | [`#279`](../main/solutions/279.md) |
 | 283. | Move Zeroes | [❐](https://leetcode.com/problems/move-zeroes/) | [`#283`](../main/solutions/283.md) |
