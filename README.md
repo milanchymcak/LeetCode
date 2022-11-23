@@ -78,6 +78,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 1920. | Build Array from Permutation | [❐](https://leetcode.com/problems/build-array-from-permutation/) | [`#1920`](../main/solutions/1920.md) |
 | 1926. | Nearest Exit from Entrance in Maze | [❐](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [`#1926`](../main/solutions/1926.md) |
 | 1929. | Concatenation of Array | [❐](https://leetcode.com/problems/concatenation-of-array/) | [`#1929`](../main/solutions/1929.md) |
+| 2011. | Final Value of Variable After Performing Operations | [❐](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [`#2011`](../main/solutions/2011.md) |
 | 2235. | Add Two Integers | [❐](https://leetcode.com/problems/add-two-integers/) | [`#2235`](../main/solutions/2235.md) |
 | 2396. | Strictly Palindromic Number | [❐](https://leetcode.com/problems/strictly-palindromic-number/) | [`#2396`](../main/solutions/2396.md) |
 | 2469. | Convert the Temperature | [❐](https://leetcode.com/problems/convert-the-temperature/) | [`#2469`](../main/solutions/2469.md) |
