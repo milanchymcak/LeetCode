@@ -38,6 +38,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 232. | Implement Queue using Stacks | [❐](https://leetcode.com/problems/implement-queue-using-stacks/) | [`#232`](../main/solutions/232.md) |
 | 242. | Valid Anagram | [❐](https://leetcode.com/problems/valid-anagram/) | [`#242`](../main/solutions/242.md) |
 | 263. | Ugly Number | [❐](https://leetcode.com/problems/ugly-number/) | [`#263`](../main/solutions/263.md) |
+| 264. | Ugly Number II | [❐](https://leetcode.com/problems/ugly-number-ii/) | [`#264`](../main/solutions/264.md) |
 | 279. | Perfect Squares | [❐](https://leetcode.com/problems/perfect-squares/) | [`#279`](../main/solutions/279.md) |
 | 283. | Move Zeroes | [❐](https://leetcode.com/problems/move-zeroes/) | [`#283`](../main/solutions/283.md) |
 | 303. | Range Sum Query - Immutable | [❐](https://leetcode.com/problems/range-sum-query-immutable/) | [`#303`](../main/solutions/303.md) |
