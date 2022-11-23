@@ -21,6 +21,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 36. | Valid Sudoku | [❐](https://leetcode.com/problems/valid-sudoku/) | [`#36`](../main/solutions/36.md) |
 | 37. | Sudoku Solver | [❐](https://leetcode.com/problems/sudoku-solver/) | [`#37`](../main/solutions/37.md) |
 | 42. | Trapping Rain Water | [❐](https://leetcode.com/problems/trapping-rain-water/) | [`#42`](../main/solutions/42.md) |
+| 58. | Length of Last Word | [❐](https://leetcode.com/problems/length-of-last-word/) | [`#58`](../main/solutions/58.md) |
 | 70. | Climbing Stairs | [❐](https://leetcode.com/problems/climbing-stairs/) | [`#70`](../main/solutions/70.md) |
 | 104. | Maximum Depth of Binary Tree | [❐](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [`#104`](../main/solutions/104.md) |
 | 121. | Best Time to Buy and Sell Stock | [❐](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [`#121`](../main/solutions/121.md) |
@@ -39,10 +40,12 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 263. | Ugly Number | [❐](https://leetcode.com/problems/ugly-number/) | [`#263`](../main/solutions/263.md) |
 | 279. | Perfect Squares | [❐](https://leetcode.com/problems/perfect-squares/) | [`#279`](../main/solutions/279.md) |
 | 283. | Move Zeroes | [❐](https://leetcode.com/problems/move-zeroes/) | [`#283`](../main/solutions/283.md) |
+| 303. | Range Sum Query - Immutable | [❐](https://leetcode.com/problems/range-sum-query-immutable/) | [`#303`](../main/solutions/303.md) |
 | 374. | Guess Number Higher or Lower | [❐](https://leetcode.com/problems/guess-number-higher-or-lower/) | [`#374`](../main/solutions/374.md) |
 | 389. | Find the Difference | [❐](https://leetcode.com/problems/find-the-difference/) | [`#389`](../main/solutions/389.md) |
 | 392. | Is Subsequence | [❐](https://leetcode.com/problems/is-subsequence/) | [`#392`](../main/solutions/392.md) |
 | 404. | Sum of Left Leaves | [❐](https://leetcode.com/problems/sum-of-left-leaves/) | [`#404`](../main/solutions/404.md) |
+| 409. | Longest Palindrome | [❐](https://leetcode.com/problems/longest-palindrome/) | [`#409`](../main/solutions/409.md) |
 | 412. | Fizz Buzz | [❐](https://leetcode.com/problems/fizz-buzz/) | [`#412`](../main/solutions/412.md) |
 | 496. | Next Greater Element I | [❐](https://leetcode.com/problems/next-greater-element-i/) | [`#496`](../main/solutions/496.md) |
 | 509. | Fibonacci Number | [❐](https://leetcode.com/problems/fibonacci-number/) | [`#509`](../main/solutions/509.md) |
@@ -71,6 +74,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 1523. | Count Odd Numbers in an Interval Range | [❐](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [`#1523`](../main/solutions/1523.md) |
 | 1572. | Matrix Diagonal Sum | [❐](https://leetcode.com/problems/matrix-diagonal-sum/) | [`#1572`](../main/solutions/1572.md) |
 | 1588. | Sum of All Odd Length Subarrays | [❐](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [`#1588`](../main/solutions/1588.md) |
+| 1603. | Design Parking System | [❐](https://leetcode.com/problems/design-parking-system/) | [`#1603`](../main/solutions/1603.md) |
 | 1672. | Richest Customer Wealth | [❐](https://leetcode.com/problems/richest-customer-wealth/) | [`#1672`](../main/solutions/1672.md) |
 | 1678. | Goal Parser Interpretation | [❐](https://leetcode.com/problems/goal-parser-interpretation/) | [`#1678`](../main/solutions/1678.md) |
 | 1768. | Merge Strings Alternately | [❐](https://leetcode.com/problems/merge-strings-alternately/) | [`#1768`](../main/solutions/1768.md) |
