@@ -1,6 +1,6 @@
 # LeetCode Problems - PHP Edition
 **Will try to add a few LeetCode solutions every week.**   
-Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/) or [chymcakmilan.com](https://chymcakmilan.com)
+Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/) or [chymcakmilan.com](https://chymcakmilan.com)
 
 ## 📝 LeetCode Problems & Solutions
 
@@ -18,9 +18,11 @@ Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/
 | 26. | Remove Duplicates from Sorted Array | [❐](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [`#26`](../main/solutions/26.md) |
 | 29. | Divide Two Integers | [❐](https://leetcode.com/problems/divide-two-integers/) | [`#29`](../main/solutions/29.md) |
 | 32. | Longest Valid Parentheses | [❐](https://leetcode.com/problems/longest-valid-parentheses/) | [`#32`](../main/solutions/32.md) |
+| 36. | Valid Sudoku | [❐](https://leetcode.com/problems/valid-sudoku/) | [`#36`](../main/solutions/36.md) |
 | 37. | Sudoku Solver | [❐](https://leetcode.com/problems/sudoku-solver/) | [`#37`](../main/solutions/37.md) |
 | 42. | Trapping Rain Water | [❐](https://leetcode.com/problems/trapping-rain-water/) | [`#42`](../main/solutions/42.md) |
 | 70. | Climbing Stairs | [❐](https://leetcode.com/problems/climbing-stairs/) | [`#70`](../main/solutions/70.md) |
+| 104. | Maximum Depth of Binary Tree | [❐](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [`#104`](../main/solutions/104.md) |
 | 151. | Reverse Words in a String | [❐](https://leetcode.com/problems/reverse-words-in-a-string/) | [`#151`](../main/solutions/151.md) |
 | 191. | Number of 1 Bits | [❐](https://leetcode.com/problems/number-of-1-bits/) | [`#191`](../main/solutions/191.md) |
 | 198. | House Robber | [❐](https://leetcode.com/problems/house-robber/) | [`#198`](../main/solutions/198.md) |
@@ -36,6 +38,7 @@ Also follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/
 | 283. | Move Zeroes | [❐](https://leetcode.com/problems/move-zeroes/) | [`#283`](../main/solutions/283.md) |
 | 374. | Guess Number Higher or Lower | [❐](https://leetcode.com/problems/guess-number-higher-or-lower/) | [`#374`](../main/solutions/374.md) |
 | 389. | Find the Difference | [❐](https://leetcode.com/problems/find-the-difference/) | [`#389`](../main/solutions/389.md) |
+| 404. | Sum of Left Leaves | [❐](https://leetcode.com/problems/sum-of-left-leaves/) | [`#404`](../main/solutions/404.md) |
 | 412. | Fizz Buzz | [❐](https://leetcode.com/problems/fizz-buzz/) | [`#412`](../main/solutions/412.md) |
 | 496. | Next Greater Element I | [❐](https://leetcode.com/problems/next-greater-element-i/) | [`#496`](../main/solutions/496.md) |
 | 509. | Fibonacci Number | [❐](https://leetcode.com/problems/fibonacci-number/) | [`#509`](../main/solutions/509.md) |
