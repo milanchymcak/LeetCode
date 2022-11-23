@@ -23,6 +23,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 42. | Trapping Rain Water | [❐](https://leetcode.com/problems/trapping-rain-water/) | [`#42`](../main/solutions/42.md) |
 | 70. | Climbing Stairs | [❐](https://leetcode.com/problems/climbing-stairs/) | [`#70`](../main/solutions/70.md) |
 | 104. | Maximum Depth of Binary Tree | [❐](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [`#104`](../main/solutions/104.md) |
+| 121. | Best Time to Buy and Sell Stock | [❐](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [`#121`](../main/solutions/121.md) |
 | 151. | Reverse Words in a String | [❐](https://leetcode.com/problems/reverse-words-in-a-string/) | [`#151`](../main/solutions/151.md) |
 | 191. | Number of 1 Bits | [❐](https://leetcode.com/problems/number-of-1-bits/) | [`#191`](../main/solutions/191.md) |
 | 198. | House Robber | [❐](https://leetcode.com/problems/house-robber/) | [`#198`](../main/solutions/198.md) |
@@ -40,6 +41,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 283. | Move Zeroes | [❐](https://leetcode.com/problems/move-zeroes/) | [`#283`](../main/solutions/283.md) |
 | 374. | Guess Number Higher or Lower | [❐](https://leetcode.com/problems/guess-number-higher-or-lower/) | [`#374`](../main/solutions/374.md) |
 | 389. | Find the Difference | [❐](https://leetcode.com/problems/find-the-difference/) | [`#389`](../main/solutions/389.md) |
+| 392. | Is Subsequence | [❐](https://leetcode.com/problems/is-subsequence/) | [`#392`](../main/solutions/392.md) |
 | 404. | Sum of Left Leaves | [❐](https://leetcode.com/problems/sum-of-left-leaves/) | [`#404`](../main/solutions/404.md) |
 | 412. | Fizz Buzz | [❐](https://leetcode.com/problems/fizz-buzz/) | [`#412`](../main/solutions/412.md) |
 | 496. | Next Greater Element I | [❐](https://leetcode.com/problems/next-greater-element-i/) | [`#496`](../main/solutions/496.md) |
