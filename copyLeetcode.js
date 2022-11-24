@@ -128,6 +128,24 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
         resultConstraints += "+ " + Clean(li.innerHTML);
         resultConstraints += "  \n";
     }
+    if(resultConstraints.length > 5) {
+        resultConstraints = "#### Constraints:  \n" + resultConstraints + "  \n";
+    }
+
+    /**
+     * Lang Type
+     */
+    let resultLanguage = 'php';
+    const DocumentLanguage = document.querySelector(".h-full.w-full[data-mode-id]");
+    if(DocumentLanguage !== undefined && DocumentLanguage !== null) {
+        const dataMode = DocumentLanguage.getAttribute("data-mode-id");
+        if(dataMode === 'javascript') {
+            resultLanguage = 'js';
+        } 
+        if(dataMode === 'mysql') {
+            resultLanguage = 'sql';
+        }
+    }
 
     /**
      * Solution
@@ -141,5 +159,5 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
     /**
      * Copy the result to the clipboard
      */
-    copy("## 📝 " + DocumentTitle + "  \n" + resultDescription + "  \n" + resultExamples + "  \n#### Constraints:  \n" + resultConstraints + "  \n## 📝 Solution \n```php  \n" + resultSolution + "```  \n");
+    copy("## 📝 " + DocumentTitle + "  \n" + resultDescription + "  \n" + resultExamples + "  \n" + resultConstraints + "## 📝 Solution \n```" + resultLanguage + "  \n" + resultSolution + "```  \n");
 }
