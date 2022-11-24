@@ -27,6 +27,8 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 121. | Best Time to Buy and Sell Stock | [❐](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [`#121`](../main/solutions/121.md) |
 | 151. | Reverse Words in a String | [❐](https://leetcode.com/problems/reverse-words-in-a-string/) | [`#151`](../main/solutions/151.md) |
 | 175. | Combine Two Tables (SQL) | [❐](https://leetcode.com/problems/combine-two-tables/) | [`#175`](../main/solutions/175.md) |
+| 181. | Employees Earning More Than Their Managers (SQL) | [❐](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [`#181`](../main/solutions/181.md) |
+| 183. | Customers Who Never Order (SQL) | [❐](https://leetcode.com/problems/customers-who-never-order/) | [`#183`](../main/solutions/183.md) |
 | 191. | Number of 1 Bits | [❐](https://leetcode.com/problems/number-of-1-bits/) | [`#191`](../main/solutions/191.md) |
 | 198. | House Robber | [❐](https://leetcode.com/problems/house-robber/) | [`#198`](../main/solutions/198.md) |
 | 202. | Happy Number | [❐](https://leetcode.com/problems/happy-number/) | [`#202`](../main/solutions/202.md) |
@@ -52,8 +54,10 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 496. | Next Greater Element I | [❐](https://leetcode.com/problems/next-greater-element-i/) | [`#496`](../main/solutions/496.md) |
 | 509. | Fibonacci Number | [❐](https://leetcode.com/problems/fibonacci-number/) | [`#509`](../main/solutions/509.md) |
 | 566. | Reshape the Matrix | [❐](https://leetcode.com/problems/reshape-the-matrix/) | [`#566`](../main/solutions/566.md) |
+| 584. | Find Customer Referee (SQL) | [❐](https://leetcode.com/problems/find-customer-referee/) | [`#584`](../main/solutions/584.md) |
 | 587. | Erect the Fence | [❐](https://leetcode.com/problems/erect-the-fence/) | [`#587`](../main/solutions/587.md) |
 | 589. | N-ary Tree Preorder Traversal | [❐](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [`#589`](../main/solutions/589.md) |
+| 595. | Big Countries (SQL) | [❐](https://leetcode.com/problems/big-countries/) | [`#595`](../main/solutions/595.md) |
 | 709. | To Lower Case | [❐](https://leetcode.com/problems/to-lower-case/) | [`#709`](../main/solutions/709.md) |
 | 724. | Find Pivot Index | [❐](https://leetcode.com/problems/find-pivot-index/) | [`#724`](../main/solutions/724.md) |
 | 746. | Min Cost Climbing Stairs | [❐](https://leetcode.com/problems/min-cost-climbing-stairs/) | [`#746`](../main/solutions/746.md) |
@@ -79,6 +83,7 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 | 1603. | Design Parking System | [❐](https://leetcode.com/problems/design-parking-system/) | [`#1603`](../main/solutions/1603.md) |
 | 1672. | Richest Customer Wealth | [❐](https://leetcode.com/problems/richest-customer-wealth/) | [`#1672`](../main/solutions/1672.md) |
 | 1678. | Goal Parser Interpretation | [❐](https://leetcode.com/problems/goal-parser-interpretation/) | [`#1678`](../main/solutions/1678.md) |
+| 1757. | Recyclable and Low Fat Products (SQL) | [❐](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [`#1757`](../main/solutions/1757.md) |
 | 1768. | Merge Strings Alternately | [❐](https://leetcode.com/problems/merge-strings-alternately/) | [`#1768`](../main/solutions/1768.md) |
 | 1779. | Find Nearest Point That Has the Same X or Y Coordinate | [❐](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [`#1779`](../main/solutions/1779.md) |
 | 1790. | Check if One String Swap Can Make Strings Equal | [❐](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [`#1790`](../main/solutions/1790.md) |
