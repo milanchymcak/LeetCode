@@ -145,6 +145,9 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
         if(dataMode === 'mysql') {
             resultLanguage = 'sql';
         }
+        if(dataMode === 'kotlin') {
+            resultLanguage = 'kotlin';
+        }
     }
 
     /**

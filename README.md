@@ -8,6 +8,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 **Tech Stack:**  
 + [JavaScript](https://github.com/milanchymcak/LeetCode-JavaScript)
 + [MySQL](https://github.com/milanchymcak/LeetCode-MysQL)
++ [Kotlin](https://github.com/milanchymcak/LeetCode-Kotlin)  
 
 ## 📝 LeetCode Problems & Solutions
 
@@ -23,6 +24,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 16. | 3Sum Closest | [❐](https://leetcode.com/problems/3sum-closest/) | [`#16`](../main/solutions/16.md) |
 | 20. | Valid Parentheses | [❐](https://leetcode.com/problems/valid-parentheses/) | [`#20`](../main/solutions/20.md) |
 | 26. | Remove Duplicates from Sorted Array | [❐](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [`#26`](../main/solutions/26.md) |
+| 28. | Find the Index of the First Occurrence in a String | [❐](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [`#28`](../main/solutions/28.md) |
 | 29. | Divide Two Integers | [❐](https://leetcode.com/problems/divide-two-integers/) | [`#29`](../main/solutions/29.md) |
 | 32. | Longest Valid Parentheses | [❐](https://leetcode.com/problems/longest-valid-parentheses/) | [`#32`](../main/solutions/32.md) |
 | 36. | Valid Sudoku | [❐](https://leetcode.com/problems/valid-sudoku/) | [`#36`](../main/solutions/36.md) |
