@@ -8,6 +8,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 **Tech Stack:**  
 + [PHP](https://github.com/milanchymcak/LeetCode-PHP)
 + [MySQL](https://github.com/milanchymcak/LeetCode-MysQL)
++ [Kotlin](https://github.com/milanchymcak/LeetCode-Kotlin)  
 
 ## 📝 LeetCode Problems & Solutions
 
