@@ -20,5 +20,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 584. | Find Customer Referee | [❐](https://leetcode.com/problems/find-customer-referee/) | [`#584`](../main/solutions/584.md) |
 | 595. | Big Countries | [❐](https://leetcode.com/problems/big-countries/) | [`#595`](../main/solutions/595.md) |
 | 627. | Swap Salary | [❐](https://leetcode.com/problems/swap-salary/) | [`#627`](../main/solutions/627.md) |
+| 1484. | Group Sold Products By The Date | [❐](https://leetcode.com/problems/group-sold-products-by-the-date/) | [`#1484`](../main/solutions/1484.md) |
+| 1527. | Patients With a Condition | [❐](https://leetcode.com/problems/patients-with-a-condition/) | [`#1527`](../main/solutions/627.md) |
 | 1757. | Recyclable and Low Fat Products | [❐](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [`#1757`](../main/solutions/1757.md) |
 | 1873. | Calculate Special Bonus | [❐](https://leetcode.com/problems/calculate-special-bonus/) | [`#1873`](../main/solutions/1873.md) |
