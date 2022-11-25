@@ -15,15 +15,15 @@
  */
  const Clean = (s) => {
     // Protect html
-    s = s.replaceAll("<sup>", "**");
-    s = s.replaceAll("<s/up>", "");
+    s = s.replaceAll('<sup>', '**');
+    s = s.replaceAll('<s/up>', '');
 
     // Clean
-    s = s.replaceAll("<code>", "`");
-    s = s.replaceAll("</code>", "`");
-    s = s.replaceAll("<strong>", "**");
-    s = s.replaceAll("</strong>", "**");
-    s = s.replaceAll("&nbsp;", "   ");
+    s = s.replaceAll('<code>', '`');
+    s = s.replaceAll('</code>', '`');
+    s = s.replaceAll('<strong>', '**');
+    s = s.replaceAll('</strong>', '**');
+    s = s.replaceAll('&nbsp;', '   ');
     s = s.replace( /(<([^>]+)>)/ig, '');
 
     s = DecodeHtml(s);
@@ -37,7 +37,7 @@
  * @returns 
  */
 const DecodeHtml = (html) => {
-    const txt = document.createElement("textarea");
+    const txt = document.createElement('textarea');
     txt.innerHTML = html;
     return txt.value;
 }
@@ -45,7 +45,7 @@ const DecodeHtml = (html) => {
 /**
  * Title of the problem
  */
-const DocumentTitle = document.querySelector("span.mr-2.text-lg.font-medium.text-label-1").textContent;
+const DocumentTitle = document.querySelector('span.mr-2.text-lg.font-medium.text-label-1').textContent;
 
 /**
  * Body Document
@@ -57,35 +57,35 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
      * Description
      */
     let resultDescription = '';
-    const documentParagraphs = BodyDocument.querySelectorAll("p, pre, img");
+    const documentParagraphs = BodyDocument.querySelectorAll('p, pre, img');
     for(const tag of documentParagraphs) {
 
         // Skip everything after we found example section
         if(tag.innerHTML.includes('class="example"')) break;
     
         // If Code
-        if(tag.tagName === "PRE") {
-            resultDescription += "\n```\n" + tag.innerHTML.replace( /(<([^>]+)>)/ig, '') + "\n```\n";
+        if(tag.tagName === 'PRE') {
+            resultDescription += '\n```\n' + tag.innerHTML.replace( /(<([^>]+)>)/ig, '') + '\n```\n';
             continue;
         } 
         
         // Images
-        if(tag.tagName === "IMG") {
-            resultDescription += "![" + DocumentTitle + "](" + tag.getAttribute("src") + ")\n";
+        if(tag.tagName === 'IMG') {
+            resultDescription += '![' + DocumentTitle + '](' + tag.getAttribute('src') + ')\n';
             continue;
         } 
         
         resultDescription += Clean(tag.innerHTML);
-        resultDescription += "  \n";
+        resultDescription += '  \n';
     }
 
     /**
      * Examples
      */
-     let resultExamples = "";
+     let resultExamples = '';
      let resultExamplesCount = 1;
      let exampleFound = false;
-     const DocumentExamples = BodyDocument.querySelectorAll("p, pre, img");
+     const DocumentExamples = BodyDocument.querySelectorAll('p, pre, img');
      for(const tag of DocumentExamples) {
 
         // Must be example
@@ -96,24 +96,24 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
         if(exampleFound === true) {
 
             // If Code
-            if(tag.tagName === "PRE") {
-                resultExamples += "\n```\n" + tag.innerHTML.replace( /(<([^>]+)>)/ig, '') + "\n```\n";
-                if(tag.innerHTML.includes("<img src=")) {
-                    var img = tag.querySelector("img");
-                    resultExamples += "![" + DocumentTitle + "](" + img.getAttribute("src") + ")\n";
+            if(tag.tagName === 'PRE') {
+                resultExamples += '\n```\n' + tag.innerHTML.replace( /(<([^>]+)>)/ig, '') + '\n```\n';
+                if(tag.innerHTML.includes('<img src=')) {
+                    var img = tag.querySelector('img');
+                    resultExamples += '![' + DocumentTitle + '](' + img.getAttribute('src') + ')\n';
                 }
                 exampleFound = false;
                 continue;
             } 
             
             // Images
-            if (tag.tagName === "IMG") {
-                resultExamples += "![" + DocumentTitle + "](" + tag.getAttribute("src") + ")\n";
+            if (tag.tagName === 'IMG') {
+                resultExamples += '![' + DocumentTitle + '](' + tag.getAttribute('src') + ')\n';
                 continue;
             }
 
-            resultExamples += "#### Example " + resultExamplesCount + ":";
-            resultExamples += "  \n";
+            resultExamples += '#### Example ' + resultExamplesCount + ':';
+            resultExamples += '  \n';
             resultExamplesCount++;
         
         }
@@ -122,23 +122,23 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
     /**
      * Constraints
      */
-    let resultConstraints = "";
-    const DocumentConstraints = BodyDocument.querySelectorAll("ul li");
+    let resultConstraints = '';
+    const DocumentConstraints = BodyDocument.querySelectorAll('ul li');
     for(const li of DocumentConstraints) {
-        resultConstraints += "+ " + Clean(li.innerHTML);
-        resultConstraints += "  \n";
+        resultConstraints += '+ ' + Clean(li.innerHTML);
+        resultConstraints += '  \n';
     }
     if(resultConstraints.length > 5) {
-        resultConstraints = "#### Constraints:  \n" + resultConstraints + "  \n";
+        resultConstraints = '#### Constraints:  \n' + resultConstraints + '  \n';
     }
 
     /**
      * Lang Type
      */
     let resultLanguage = 'php';
-    const DocumentLanguage = document.querySelector(".h-full.w-full[data-mode-id]");
+    const DocumentLanguage = document.querySelector('.h-full.w-full[data-mode-id]');
     if(DocumentLanguage !== undefined && DocumentLanguage !== null) {
-        const dataMode = DocumentLanguage.getAttribute("data-mode-id");
+        const dataMode = DocumentLanguage.getAttribute('data-mode-id');
         if(dataMode === 'javascript') {
             resultLanguage = 'js';
         } 
@@ -156,14 +156,22 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
     /**
      * Solution
      */
-    let resultSolution = "";
-    const DocumentSolutions = document.querySelector(".view-lines.monaco-mouse-cursor-text");
+    let resultSolution = '';
+    const DocumentSolutions = document.querySelector('.view-lines.monaco-mouse-cursor-text');
     for (const child of DocumentSolutions.children) {
-        resultSolution += child.textContent + "  \n";
+        resultSolution += child.textContent + '  \n';
     }
+
+    /**
+     * Get Readme.md table row
+     */
+    const problemID = DocumentTitle.split('.')[0];
+    const problemTitle = DocumentTitle.split('.')[1].trim();
+    const problemURL = window.location.href.split('/description/')[0] + '/';
+    const ReadmeRow = '| ' + problemID + '. | ' + problemTitle + ' | [❐](' + problemURL + ') | [`#' + problemID + '`](../main/solutions/' + problemID + '.md) |';
 
     /**
      * Copy the result to the clipboard
      */
-    copy("## 📝 " + DocumentTitle + "  \n" + resultDescription + "  \n" + resultExamples + "  \n" + resultConstraints + "## 📝 Solution \n```" + resultLanguage + "  \n" + resultSolution + "```  \n");
+    copy('## 📝 ' + DocumentTitle + '  \n' + resultDescription + '  \n' + resultExamples + '  \n' + resultConstraints + '## 📝 Solution \n```' + resultLanguage + '  \n' + resultSolution + '```  \n' + ReadmeRow);
 }
