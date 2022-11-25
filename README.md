@@ -21,3 +21,4 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 595. | Big Countries | [❐](https://leetcode.com/problems/big-countries/) | [`#595`](../main/solutions/595.md) |
 | 627. | Swap Salary | [❐](https://leetcode.com/problems/swap-salary/) | [`#627`](../main/solutions/627.md) |
 | 1757. | Recyclable and Low Fat Products | [❐](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [`#1757`](../main/solutions/1757.md) |
+| 1873. | Calculate Special Bonus | [❐](https://leetcode.com/problems/calculate-special-bonus/) | [`#1873`](../main/solutions/1873.md) |
