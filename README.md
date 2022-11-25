@@ -32,6 +32,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 42. | Trapping Rain Water | [❐](https://leetcode.com/problems/trapping-rain-water/) | [`#42`](../main/solutions/42.md) |
 | 58. | Length of Last Word | [❐](https://leetcode.com/problems/length-of-last-word/) | [`#58`](../main/solutions/58.md) |
 | 70. | Climbing Stairs | [❐](https://leetcode.com/problems/climbing-stairs/) | [`#70`](../main/solutions/70.md) |
+| 79. | Word Search | [❐](https://leetcode.com/problems/word-search/) | [`#79`](../main/solutions/79.md) |
 | 104. | Maximum Depth of Binary Tree | [❐](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [`#104`](../main/solutions/104.md) |
 | 121. | Best Time to Buy and Sell Stock | [❐](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [`#121`](../main/solutions/121.md) |
 | 151. | Reverse Words in a String | [❐](https://leetcode.com/problems/reverse-words-in-a-string/) | [`#151`](../main/solutions/151.md) |

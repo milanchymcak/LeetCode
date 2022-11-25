@@ -71,7 +71,7 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
         
         // Images
         if(tag.tagName === "IMG") {
-            resultDescription += "![" + title + "](" + tag.getAttribute("src") + ")\n";
+            resultDescription += "![" + DocumentTitle + "](" + tag.getAttribute("src") + ")\n";
             continue;
         } 
         
@@ -100,7 +100,7 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
                 resultExamples += "\n```\n" + tag.innerHTML.replace( /(<([^>]+)>)/ig, '') + "\n```\n";
                 if(tag.innerHTML.includes("<img src=")) {
                     var img = tag.querySelector("img");
-                    resultExamples += "![" + title + "](" + img.getAttribute("src") + ")\n";
+                    resultExamples += "![" + DocumentTitle + "](" + img.getAttribute("src") + ")\n";
                 }
                 exampleFound = false;
                 continue;
@@ -108,7 +108,7 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
             
             // Images
             if (tag.tagName === "IMG") {
-                resultExamples += "![" + title + "](" + tag.getAttribute("src") + ")\n";
+                resultExamples += "![" + DocumentTitle + "](" + tag.getAttribute("src") + ")\n";
                 continue;
             }
 
@@ -147,6 +147,9 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
         }
         if(dataMode === 'kotlin') {
             resultLanguage = 'kotlin';
+        }
+        if(dataMode === 'typescript') {
+            resultLanguage = 'ts';
         }
     }
 
