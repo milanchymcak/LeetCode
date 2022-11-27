@@ -15,12 +15,15 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | Index | Name | LeetCode URL | Solution |
 | :---: |:----:|:------------:|:--------:|
 | 175. | Combine Two Tables | [❐](https://leetcode.com/problems/combine-two-tables/) | [`#175`](../main/solutions/175.md) |
+| 176. | Second Highest Salary | [❐](https://leetcode.com/problems/second-highest-salary/) | [`#176`](../main/solutions/176.md) |
 | 181. | Employees Earning More Than Their Managers | [❐](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [`#181`](../main/solutions/181.md) |
+| 182. | Duplicate Emails | [❐](https://leetcode.com/problems/duplicate-emails/) | [`#182`](../main/solutions/182.md) |
 | 183. | Customers Who Never Order | [❐](https://leetcode.com/problems/customers-who-never-order/) | [`#183`](../main/solutions/183.md) |
 | 196. | Delete Duplicate Emails | [❐](https://leetcode.com/problems/delete-duplicate-emails/) | [`#196`](../main/solutions/196.md) |
 | 584. | Find Customer Referee | [❐](https://leetcode.com/problems/find-customer-referee/) | [`#584`](../main/solutions/584.md) |
 | 586. | Customer Placing the Largest Number of Orders | [❐](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [`#586`](../main/solutions/586.md) |
 | 595. | Big Countries | [❐](https://leetcode.com/problems/big-countries/) | [`#595`](../main/solutions/595.md) |
+| 608. | Tree Node | [❐](https://leetcode.com/problems/tree-node/) | [`#608`](../main/solutions/608.md) |
 | 627. | Swap Salary | [❐](https://leetcode.com/problems/swap-salary/) | [`#627`](../main/solutions/627.md) |
 | 1484. | Group Sold Products By The Date | [❐](https://leetcode.com/problems/group-sold-products-by-the-date/) | [`#1484`](../main/solutions/1484.md) |
 | 1527. | Patients With a Condition | [❐](https://leetcode.com/problems/patients-with-a-condition/) | [`#1527`](../main/solutions/627.md) |
