@@ -66,6 +66,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 709. | To Lower Case | [❐](https://leetcode.com/problems/to-lower-case/) | [`#709`](../main/solutions/709.md) |
 | 724. | Find Pivot Index | [❐](https://leetcode.com/problems/find-pivot-index/) | [`#724`](../main/solutions/724.md) |
 | 746. | Min Cost Climbing Stairs | [❐](https://leetcode.com/problems/min-cost-climbing-stairs/) | [`#746`](../main/solutions/746.md) |
+| 844. | Backspace String Compare | [❐](https://leetcode.com/problems/backspace-string-compare/) | [`#844`](../main/solutions/844.md) |
 | 876. | Middle of the Linked List | [❐](https://leetcode.com/problems/middle-of-the-linked-list/) | [`#876`](../main/solutions/876.md) |
 | 896. | Monotonic Array | [❐](https://leetcode.com/problems/monotonic-array/) | [`#896`](../main/solutions/896.md) |
 | 899. | Orderly Queue | [❐](https://leetcode.com/problems/orderly-queue/) | [`#899`](../main/solutions/899.md) |
