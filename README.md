@@ -88,6 +88,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 1572. | Matrix Diagonal Sum | [❐](https://leetcode.com/problems/matrix-diagonal-sum/) | [`#1572`](../main/solutions/1572.md) |
 | 1588. | Sum of All Odd Length Subarrays | [❐](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [`#1588`](../main/solutions/1588.md) |
 | 1603. | Design Parking System | [❐](https://leetcode.com/problems/design-parking-system/) | [`#1603`](../main/solutions/1603.md) |
+| 1657. | Determine if Two Strings Are Close | [❐](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [`#1657`](../main/solutions/1657.md) |
 | 1672. | Richest Customer Wealth | [❐](https://leetcode.com/problems/richest-customer-wealth/) | [`#1672`](../main/solutions/1672.md) |
 | 1678. | Goal Parser Interpretation | [❐](https://leetcode.com/problems/goal-parser-interpretation/) | [`#1678`](../main/solutions/1678.md) |
 | 1768. | Merge Strings Alternately | [❐](https://leetcode.com/problems/merge-strings-alternately/) | [`#1768`](../main/solutions/1768.md) |
