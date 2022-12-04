@@ -7,7 +7,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 
 **Tech Stack:**  
 + [PHP](../PHP)
-+ [MySQL](../MysQL)
++ [MySQL](../MySQL)
 + [Kotlin](../Kotlin)  
 
 ## 📝 LeetCode Problems & Solutions

@@ -8,7 +8,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 **Tech Stack:**  
 + [PHP](../PHP)
 + [JavaScript](../JavaScript)
-+ [MySQL](../MysQL)
++ [MySQL](../MySQL)
 
 ## 📝 LeetCode Problems & Solutions
 
