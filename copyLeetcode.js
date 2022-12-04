@@ -168,7 +168,7 @@ if(BodyDocument !== undefined && BodyDocument !== null) {
     const problemID = DocumentTitle.split('.')[0];
     const problemTitle = DocumentTitle.split('.')[1].trim();
     const problemURL = window.location.href.split('/description/')[0] + '/';
-    const ReadmeRow = '| ' + problemID + '. | ' + problemTitle + ' | [❐](' + problemURL + ') | [`#' + problemID + '`](../main/solutions/' + problemID + '.md) |';
+    const ReadmeRow = '| ' + problemID + '. | ' + problemTitle + ' | [❐](' + problemURL + ') | [`#' + problemID + '`](solutions/' + problemID + '.md) |';
 
     /**
      * Copy the result to the clipboard

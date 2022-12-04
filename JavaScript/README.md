@@ -6,12 +6,12 @@ Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymc
 Also trying to solve LeetCode problems in other languages, so make sure to check it out too!  
 
 **Tech Stack:**  
-+ [PHP](https://github.com/milanchymcak/LeetCode-PHP)
-+ [MySQL](https://github.com/milanchymcak/LeetCode-MysQL)
-+ [Kotlin](https://github.com/milanchymcak/LeetCode-Kotlin)  
++ [PHP](../PHP)
++ [MySQL](../MysQL)
++ [Kotlin](../Kotlin)  
 
 ## 📝 LeetCode Problems & Solutions
 
 | Index | Name | LeetCode URL | Solution |
 | :---: |:----:|:------------:|:--------:|
-| 1. | Two Sum | [❐](https://leetcode.com/problems/two-sum/) | [`#1`](../main/solutions/1.md) |
+| 1. | Two Sum | [❐](https://leetcode.com/problems/two-sum/) | [`#1`](solutions/1.md) |
