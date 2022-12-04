@@ -14,8 +14,3 @@ It has tons of coding tasks & problems on a wide range of subjects (range from d
 + [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/)
 + [chymcakmilan.com](https://chymcakmilan.com)
 + [linkedin.com/in/milan-chymcak](https://www.linkedin.com/in/milan-chymcak/)
-
-## 📣 Follow me
-+ [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/)
-+ [chymcakmilan.com](https://chymcakmilan.com)
-+ [linkedin.com/in/milan-chymcak](https://www.linkedin.com/in/milan-chymcak/)
