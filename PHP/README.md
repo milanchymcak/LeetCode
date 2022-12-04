@@ -2,7 +2,7 @@
 **Will try to add a few LeetCode solutions every week.**   
 Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/) or [chymcakmilan.com](https://chymcakmilan.com)
 
-## 🔥 LeetCode Problems in other Languages
+## ⚙ LeetCode Problems in other Languages
 Also trying to solve LeetCode problems in other languages, so make sure to check it out too!  
 
 **Tech Stack:**  
@@ -104,3 +104,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 2396. | Strictly Palindromic Number | [❐](https://leetcode.com/problems/strictly-palindromic-number/) | [`#2396`](solutions/2396.md) |
 | 2469. | Convert the Temperature | [❐](https://leetcode.com/problems/convert-the-temperature/) | [`#2469`](solutions/2469.md) |
 
+## 📣 Follow me
++ [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/)
++ [chymcakmilan.com](https://chymcakmilan.com)
++ [linkedin.com/in/milan-chymcak](https://www.linkedin.com/in/milan-chymcak/)

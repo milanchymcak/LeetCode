@@ -2,7 +2,7 @@
 **Will try to add a few LeetCode solutions every week.**   
 Also, please follow me on [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/) or [chymcakmilan.com](https://chymcakmilan.com)
 
-## 🔥 LeetCode Problems in other Languages
+## ⚙ LeetCode Problems in other Languages
 Also trying to solve LeetCode problems in other languages, so make sure to check it out too!  
 
 **Tech Stack:**  
@@ -40,3 +40,8 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 1795. | Rearrange Products Table | [❐](https://leetcode.com/problems/rearrange-products-table/) | [`#1795`](solutions/1795.md) |
 | 1873. | Calculate Special Bonus | [❐](https://leetcode.com/problems/calculate-special-bonus/) | [`#1873`](solutions/1873.md) |
 | 1965. | Employees With Missing Information | [❐](https://leetcode.com/problems/employees-with-missing-information/) | [`#1965`](solutions/1965.md) |
+
+## 📣 Follow me
++ [leetcode.com/chymcakmilan](https://leetcode.com/chymcakmilan/)
++ [chymcakmilan.com](https://chymcakmilan.com)
++ [linkedin.com/in/milan-chymcak](https://www.linkedin.com/in/milan-chymcak/)
