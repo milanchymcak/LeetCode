@@ -27,6 +27,7 @@ Also trying to solve LeetCode problems in other languages, so make sure to check
 | 28. | Find the Index of the First Occurrence in a String | [❐](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [`#28`](../main/solutions/28.md) |
 | 29. | Divide Two Integers | [❐](https://leetcode.com/problems/divide-two-integers/) | [`#29`](../main/solutions/29.md) |
 | 32. | Longest Valid Parentheses | [❐](https://leetcode.com/problems/longest-valid-parentheses/) | [`#32`](../main/solutions/32.md) |
+| 35. | Search Insert Position | [❐](https://leetcode.com/problems/search-insert-position/) | [`#35`](../main/solutions/35.md) |
 | 36. | Valid Sudoku | [❐](https://leetcode.com/problems/valid-sudoku/) | [`#36`](../main/solutions/36.md) |
 | 37. | Sudoku Solver | [❐](https://leetcode.com/problems/sudoku-solver/) | [`#37`](../main/solutions/37.md) |
 | 42. | Trapping Rain Water | [❐](https://leetcode.com/problems/trapping-rain-water/) | [`#42`](../main/solutions/42.md) |
